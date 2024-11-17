@@ -1,5 +1,4 @@
-Feature: Carrier Authentication
-
+Feature: Logout
 #As a registered user I want to be able to log out at any time To ensure the privacy and security of my account.
 
 Scenario: Selecting the Logout Option.
